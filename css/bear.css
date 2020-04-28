@@ -10,3 +10,12 @@ html {
 
 /* Write your solution here */
 
+@media screen and (min-width: 900px) {
+  #bear {
+    position:absolute;
+    left:800px;
+  }
+}
+
+ 
+
